@@ -16,6 +16,6 @@ Once copied, head over to:
 
 https://osu-pp-calc.herokuapp.com/Paste your stuff in, and press submit!
 
-Please star it on github if you can! https://github.com/ProSavage/osu-pp-score-calc
+Please star it on github if you can!
 
 Please give me feedback if you guys want more functionality and if you guys like it!
